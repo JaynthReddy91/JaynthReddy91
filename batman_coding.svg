@@ -144,16 +144,20 @@
     <!-- Radar Sweep -->
     <path d="M 100 130 L 100 50 A 80 80 0 0 1 180 130 Z" class="radar-sweep"/>
 
-    <!-- Glowing Bat Logo Symbol -->
-    <path d="M 100 108
-             C 90 92, 86 99, 82 103
-             C 65 111, 48 119, 39 140
-             C 52 136, 65 140, 74 148
-             C 83 144, 91 148, 100 160
-             C 109 148, 117 144, 126 148
-             C 135 140, 148 136, 161 140
-             C 152 119, 135 111, 118 103
-             C 114 99, 110 92, 100 108 Z" 
+    <!-- Glowing Nolan Bat Logo Symbol (Symmetric and Sharp) -->
+    <path d="M 100 115
+             L 106 100
+             L 112 110
+             Q 135 112, 160 105
+             L 155 125
+             Q 130 135, 112 145
+             L 100 165
+             L 88 145
+             Q 70 135, 45 125
+             L 40 105
+             Q 65 112, 88 110
+             L 94 100
+             Z" 
           class="bat-path" 
           filter="url(#bat-glow)"/>
   </g>
