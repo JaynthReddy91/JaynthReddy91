@@ -175,31 +175,31 @@
     <!-- Line 1 -->
     <g class="line-1" transform="translate(0, 50)">
       <text x="0" y="0" class="code-text prompt">JaynthReddy91@batcave:~$ </text>
-      <text x="195" y="0" class="code-text">init_ml_pipeline.sh</text>
+      <text x="195" y="0" class="code-text">init_secure_shell.sh</text>
     </g>
 
     <!-- Line 2 -->
     <g class="line-2" transform="translate(0, 75)">
-      <text x="0" y="0" class="code-text output-sys">[SYS] Establishing encrypted connection to CBIT nodes...</text>
+      <text x="0" y="0" class="code-text output-sys">[SYS] Connecting to Batcave secure mainframe...</text>
       <text x="460" y="0" class="code-text output-ok">OK</text>
     </g>
 
     <!-- Line 3 -->
     <g class="line-3" transform="translate(0, 100)">
-      <text x="0" y="0" class="code-text output-sys">[ML] Running CNN classification diagnosis model...</text>
-      <text x="400" y="0" class="code-text" fill="#00ffcc">94% ACCURACY</text>
+      <text x="0" y="0" class="code-text output-sys">[CRYPT] Loading quantum encryption keys...</text>
+      <text x="400" y="0" class="code-text" fill="#00ffcc">ACTIVE (256-bit)</text>
     </g>
 
     <!-- Line 4 -->
     <g class="line-4" transform="translate(0, 125)">
-      <text x="0" y="0" class="code-text output-sys">[DATA] Ingesting real-time geospatial stream...</text>
-      <text x="360" y="0" class="code-text output-info">50,000 EVENTS/SEC</text>
+      <text x="0" y="0" class="code-text output-sys">[NET] Monitoring local network traffic...</text>
+      <text x="360" y="0" class="code-text output-info">0 THREATS DETECTED</text>
     </g>
 
     <!-- Line 5 -->
     <g class="line-5" transform="translate(0, 150)">
-      <text x="0" y="0" class="code-text output-sys">[PRICING] Surge engine recalculating multiplier...</text>
-      <text x="390" y="0" class="code-text" fill="#ffd700">3.5x SURGE ACTIVE</text>
+      <text x="0" y="0" class="code-text output-sys">[BAT] Deploying tactical sonar tracking...</text>
+      <text x="390" y="0" class="code-text" fill="#ffd700">ONLINE</text>
     </g>
 
     <!-- Line 6 -->
