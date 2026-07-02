@@ -145,18 +145,24 @@
     <path d="M 100 130 L 100 50 A 80 80 0 0 1 180 130 Z" class="radar-sweep"/>
 
     <!-- Glowing Nolan Bat Logo Symbol (Symmetric and Sharp) -->
-    <path d="M 100 115
-             L 106 100
-             L 112 110
-             Q 135 112, 160 105
-             L 155 125
-             Q 130 135, 112 145
-             L 100 165
-             L 88 145
-             Q 70 135, 45 125
-             L 40 105
-             Q 65 112, 88 110
-             L 94 100
+    <path d="M 100 102
+             L 105 96
+             L 106 108
+             L 122 108
+             L 168 114
+             L 168 122
+             L 144 133
+             L 130 145
+             L 116 138
+             L 100 160
+             L 84 138
+             L 70 145
+             L 56 133
+             L 32 122
+             L 32 114
+             L 78 108
+             L 94 108
+             L 95 96
              Z" 
           class="bat-path" 
           filter="url(#bat-glow)"/>
