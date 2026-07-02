@@ -1,7 +1,7 @@
 # Hi there, I'm Jayanth Bheemudi! 👋
 
 <p align="center">
-  <img src="batman_coding.svg" alt="Batman Coding Terminal Animation" width="100%">
+  <img src="batman_coding.svg?v=2" alt="Batman Coding Terminal Animation" width="100%">
 </p>
 
 I'm a Software Engineer and Machine Learning Enthusiast based in Hyderabad, India. Currently pursuing my Bachelor of Engineering in Information Technology at Chaitanya Bharathi Institute of Technology (CBIT). I enjoy building high-throughput real-time systems, full-stack web applications, and intelligent ML/DL workflows.
