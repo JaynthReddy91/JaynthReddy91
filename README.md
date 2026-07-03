@@ -55,12 +55,7 @@ I'm a Software Engineer and Machine Learning Enthusiast based in Hyderabad, Indi
 
 ---
 
-### 📊 Coding Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaynthReddy91&amp;show_icons=true&amp;bg_color=060606&amp;title_color=ffd700&amp;text_color=a1a1aa&amp;icon_color=ffd700&amp;border_color=ffd700" alt="GitHub Stats" width="48%">
-  <img src="https://leetcode-stats.vercel.app/api?username=ETQxZvwX8M&amp;theme=dark" alt="LeetCode Stats" width="48%">
-</p>
 
 ---
 
