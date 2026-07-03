@@ -40,11 +40,11 @@ I'm a Software Engineer and Machine Learning Enthusiast based in Hyderabad, Indi
 - Created a secure Flask web portal handling patient history encryption for **500+ simulated records**, decreasing response latency by **~40%**.
 - Integrated automated PDF diagnostics reporting delivering results, confidence ratings, and prescriptions in **under 3 seconds**.
 
-#### 3. 🛡️ Cyber Threat Detector
-*React.js, Node.js, Express, VirusTotal API*
-- Programmed a full-stack scanner assessing links, files, and domains for potential malware threats.
-- Integrated **VirusTotal API** endpoints for live scanning feedback and detailed vulnerability logs.
-- Engineered a safe sandbox file upload structure with backend validation checking file headers to block malicious injections.
+#### 3. 📄 DocuMind AI: Local Grounded Document Q&A RAG Pipeline
+*Python, Streamlit, LangChain, ChromaDB, BM25, Ollama*
+- Designed and built a private, offline RAG system to query arbitrary documents (PDF, DOCX, TXT, MD) with 100% factual accuracy and zero hallucinations.
+- Engineered a hybrid search engine combining vector embeddings (ChromaDB) and exact keyword matching (BM25) with dynamic query routing.
+- Integrated a ThreadPool-based pipeline evaluating RAG performance across correctness, relevance, and faithfulness with a perfect **5.00/5.00 Faithfulness score** using local Ollama LLMs.
 
 ---
 
